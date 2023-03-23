@@ -1,2 +1,2 @@
-# jubilant-carnival
-first-try
+# BMI-calculator
+first-try Jubilant-carnival
